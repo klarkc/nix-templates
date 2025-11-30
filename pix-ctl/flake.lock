@@ -24166,11 +24166,11 @@
       },
       "locked": {
         "dir": "iogx-plutus",
-        "lastModified": 1755540125,
-        "narHash": "sha256-aBM0uoQUf9UxIF3AiUGzMnpAMEVoLlP6Nvln9GXOIQ8=",
+        "lastModified": 1763984855,
+        "narHash": "sha256-JBvLqTdPhyeo9lF1LIDoY8rTc+d/Ht4EReRWnvjLug4=",
         "owner": "klarkc",
         "repo": "nix-templates",
-        "rev": "3a42e646fb4a8d9816a7d25657c2ce8ef245a9f9",
+        "rev": "0b9828db9bcd3e4402bd952714ffbce9fa4829ea",
         "type": "github"
       },
       "original": {
