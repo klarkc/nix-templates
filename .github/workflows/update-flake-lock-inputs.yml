@@ -29,7 +29,7 @@ jobs:
         with:
           extra-config: accept-flake-config = true
       - name: Update ${{ matrix.template }} flake.lock ${{ matrix.input }}
-        uses: DeterminateSystems/update-flake-lock@v27
+        uses: DeterminateSystems/update-flake-lock@v28
         with:
           path-to-flake-dir: ${{ matrix.template }}
           commit-msg: "build(${{ matrix.template }}): Bump flake.lock ${{ matrix.input }}"
