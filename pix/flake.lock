@@ -1,21 +1,5 @@
 {
   "nodes": {
-    "docs-search": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1675992564,
-        "narHash": "sha256-Tk9VSogFHXtXe9O9vuCEfM/PV/S7plMIO0I++fCZn7U=",
-        "owner": "purs-nix",
-        "repo": "purescript-docs-search",
-        "rev": "35822b1d6ce65b1a07f80dd9e2caf15c3ee83e2c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "purs-nix",
-        "repo": "purescript-docs-search",
-        "type": "github"
-      }
-    },
     "flake-utils": {
       "locked": {
         "lastModified": 1644229661,
@@ -102,11 +86,11 @@
     "official-package-set": {
       "flake": false,
       "locked": {
-        "lastModified": 1764661239,
-        "narHash": "sha256-sqUlNPSILyodSY+HeOamDCvXJ3iuyQF/+yMrhPHFBUE=",
+        "lastModified": 1767512513,
+        "narHash": "sha256-zNRYCDXkTzw8QjmTRcv/n5Uedvhn9aIgmamcqCD2g8Q=",
         "owner": "purescript",
         "repo": "package-sets",
-        "rev": "13024bf2d1fd7d1392672d9530dc288d33d12ddf",
+        "rev": "603e17fc270eb4e9584ad815b8d4972dd56fdde2",
         "type": "github"
       },
       "original": {
@@ -146,7 +130,6 @@
     },
     "purs-nix": {
       "inputs": {
-        "docs-search": "docs-search",
         "get-flake": "get-flake",
         "lint-utils": "lint-utils",
         "nixpkgs": "nixpkgs",
@@ -156,11 +139,11 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1767155591,
-        "narHash": "sha256-oqKVImSNqFZ5elUR1PkgN39aPc1s87RZQvXJahkn0So=",
+        "lastModified": 1767815062,
+        "narHash": "sha256-ZKaNGux0zyE4lskZJaneSmYXEwpeUO+6Lf1Hnf3MwvE=",
         "owner": "purs-nix",
         "repo": "purs-nix",
-        "rev": "c217528038b13ef773564cfb4f09ac2acf48819c",
+        "rev": "26c637c5b12aad873108c991cfaa0b7600712b4b",
         "type": "github"
       },
       "original": {
@@ -172,11 +155,11 @@
     "registry": {
       "flake": false,
       "locked": {
-        "lastModified": 1764676690,
-        "narHash": "sha256-DKfto/IJleHIunz6IMub0TIvVGEpPc9fcxpF5BvmcM8=",
+        "lastModified": 1767531332,
+        "narHash": "sha256-t3Mzoh4atyTXPavEXQmvxKbUzjmuKUz+K7wlmEV5uo8=",
         "owner": "purescript",
         "repo": "registry",
-        "rev": "3a4a20a9008b547b8873912ade526027d3b19c2a",
+        "rev": "62242b47093f47c17689adc7897bf8483b08202c",
         "type": "github"
       },
       "original": {
