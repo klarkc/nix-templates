@@ -3540,15 +3540,18 @@
     },
     "customConfig_3": {
       "locked": {
-        "lastModified": 1,
-        "narHash": "sha256-Zd5w1I1Dwt783Q4WuBuCpedcwG1DrIgQGqabyF87prM=",
         "path": "./custom-config",
         "type": "path"
       },
       "original": {
         "path": "./custom-config",
         "type": "path"
-      }
+      },
+      "parent": [
+        "ctl-nix",
+        "ctl",
+        "db-sync"
+      ]
     },
     "data-merge": {
       "inputs": {
@@ -24163,11 +24166,11 @@
       },
       "locked": {
         "dir": "iogx-plutus",
-        "lastModified": 1715538245,
-        "narHash": "sha256-jChw8n+YscQB9P3jXQxMWP/+OIzcQBci+R8Ht+F0bC0=",
+        "lastModified": 1774876383,
+        "narHash": "sha256-B+TAfdT5oTvimXQYpbVeAUYWVEDiGEpLRN9Q4B/dFak=",
         "owner": "klarkc",
         "repo": "nix-templates",
-        "rev": "e81252c087b599c9b57ae84bbda235acc468ecd3",
+        "rev": "2794d2bff7ff718efbf7c82ca3b234cee1f22253",
         "type": "github"
       },
       "original": {
